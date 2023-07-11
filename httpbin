@@ -1,0 +1,2 @@
+$ helm repo add matheusfm https://matheusfm.dev/charts
+$ helm install httpbin matheusfm/httpbin
